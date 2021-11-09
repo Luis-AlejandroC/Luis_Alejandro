@@ -2,7 +2,7 @@
 
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/luis-alejandro-429b27134">
+<a href="https://www.linkedin.com/in/luis-alejandro">
   <img align="left" alt="Luis Alejandro's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>  
 <a href="https://github.com/Luis-AlejandroC">
