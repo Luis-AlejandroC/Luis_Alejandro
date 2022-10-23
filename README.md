@@ -11,14 +11,11 @@
 <a href="https://t.me/Parasite_single">
   <img align="left" alt="Luis Alejandro's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://drive.google.com/file/d/1zq_Bm4lX2CArbxOxQHo6x3rTIralR3Vc/view?usp=sharing">
-  <img align="left" alt="Luis Alejandro's Resume" width="22px" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/512/Drive-icon.png" />
-</a>
 <br/>
 <br/>
 
-- 🔭 I’m currently looking for a intership.
-- 🌱 I’m currently learning more about Java and Python.
+- 🔭 I’m currently looking for a trainee or junior position.
+- 🌱 I’m currently learning more about Java, R and Python.
 - 💬 Ask me about DC microgrids and any electrical-related stuff.
 
 **Languages and Tools:**  
